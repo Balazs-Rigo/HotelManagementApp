@@ -1,0 +1,9 @@
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.0\HotelAppLibrary.deps.json
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.0\HotelAppLibrary.dll
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.csprojAssemblyReference.cache
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.AssemblyInfoInputs.cache
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.AssemblyInfo.cs
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.0\HotelAppLibrary.pdb
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.csproj.CoreCompileInputs.cache
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.dll
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.0\HotelAppLibrary.pdb

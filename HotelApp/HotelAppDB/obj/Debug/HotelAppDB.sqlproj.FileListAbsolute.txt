@@ -2,9 +2,5 @@ I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\bin\D
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlprojAssemblyReference.cache
-I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\Model.xml
-I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\refactor.xml
-I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
-I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\predeploy.sql
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
