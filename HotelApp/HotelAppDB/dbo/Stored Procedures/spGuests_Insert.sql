@@ -11,7 +11,7 @@ BEGIN
 		values (@firstName, @lastName);
 	END
 
-	select top 1 id,firsName, lastName
+	select top 1 id,firstName, lastName
 	from dbo.Guests
-	where firsName = @fistName and lastName = @lastName;
+	where firstName = @firstName and lastName = @lastName;
 END
