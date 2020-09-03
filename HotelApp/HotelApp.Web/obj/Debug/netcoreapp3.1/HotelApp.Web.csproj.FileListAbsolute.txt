@@ -47,3 +47,4 @@ I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelApp.Web\obj
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.pdb
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.genruntimeconfig.cache
 I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\RoomSearch.cshtml.g.cs
+I:\IT\Coding\gitHubRepo\IamTimCorey\HotelManagementApp\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\BookRoom.cshtml.g.cs

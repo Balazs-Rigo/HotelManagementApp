@@ -21,7 +21,7 @@ namespace HotelAppLibrary.Data
         public List<RoomTypeModel> GetAvaliableRoomTypes(DateTime startDate, DateTime endDate)
         {
             return _db.LoadData<RoomTypeModel, dynamic>("dbo.spRoomTypes_GetAvailableTypes",
-                                                 new { StarDate = startDate, EndDate = endDate },
+                                                 new {startDate, endDate },
                                                  connectionStringName,
                                                  true);
         }
@@ -73,6 +73,14 @@ namespace HotelAppLibrary.Data
         public void CheckInGuest(int bookingId)
         {
             _db.SaveData("dbo.spBookings_CheckIn", new { Id = bookingId }, connectionStringName, true);
+        }
+
+        public RoomTypeModel GetRoomTypeById(int id)
+        {
+            return _db.LoadData<RoomTypeModel, dynamic>("dbo.spRoomTypes_GetById",
+                                                        new { id },
+                                                        connectionStringName,
+                                                        true).FirstOrDefault();
         }
     }
 }
